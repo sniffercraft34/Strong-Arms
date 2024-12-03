@@ -1,0 +1,1 @@
+scoreboard players set @a strong_arms 1
